@@ -2,8 +2,10 @@
 A dashboard project using Python, Angular and Rabbit MQ from AWS Services
 
 # Python Microsservice with Angular and Rabbit MQ
-
-# CRUD Services with Python inserting 
+- Version of Rabbit MQ: 4.0
+- Version of Angular: 18
+- Version of Python: 3.13.0 
+- Version of MySQL: 8.0.34
 
 # Products of the project based in the lists
 - Admin
